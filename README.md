@@ -5,7 +5,7 @@
 
 👩🏻‍💻 Eu sou a Giovana, trabalho atualmente como Desenvolvedora Fullstack.
 
-☕ A área que mais domino e que mais trabalhei é o backend.
+☕ A área que mais domino e que mais tive experiência é o backend.
 
 🎨 Atualmente estou estudando frontend e confesso que tem sido divertido 😆
 
