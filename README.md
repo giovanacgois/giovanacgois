@@ -7,7 +7,7 @@
 
 ☕ A área que mais domino e que mais tive experiência é o backend.
 
-🎨 Atualmente estou estudando frontend e confesso que tem sido divertido 😆
+🎨 Atualmente estou me aventurando no frontend e confesso que tem sido divertido 😆
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas, e concluí especialização MBA em Engenharia de Software 
 
