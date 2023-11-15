@@ -1,17 +1,10 @@
 -----
 
-### ✨ E aí, turma? ✨
+### ✨ E aí, turma? ✨👩🏻‍💻
 
-
-👩🏻‍💻 Eu sou a Giovana, trabalho atualmente como Desenvolvedora Fullstack.
-
-☕ A área que mais domino e que mais tive experiência é o backend.
-
-🎨 Atualmente estou me aventurando no frontend e confesso que tem sido divertido 😆
-
-🎓 Formada em Análise e Desenvolvimento de Sistemas, e concluí especialização MBA em Engenharia de Software 
-
-💻 Atualmente estou cursando a minha segunda especialização em Desenvolvimento de Software para Web.
+Sou a Giovana, trabalho atualmente como Desenvolvedora Fullstack. 
+Embora tenha tido mais experiência com backend [e goste muito], nos últimos tempos também estou me aventurando no frontend - e tenho gostado também. 
+Sou formada em Análise e Desenvolvimento de Sistemas, concluí especialização MBA em Engenharia de Software e atualmente estou cursando a minha segunda especialização em Desenvolvimento de Software para Web.
 
 -----
 
