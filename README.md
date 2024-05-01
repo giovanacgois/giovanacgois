@@ -1,6 +1,6 @@
 -----
 
-### ✨ E aí, turma? ✨👩🏻‍💻
+### E aí, turma?
 
 Eu sou a Giovana, atualmente trabalho como Desenvolvedora Fullstack.
 Comecei minha jornada no misterioso mundo do backend, mas agora estou me aventurando pelas terras encantadas do frontend também. 🧚‍♀️
